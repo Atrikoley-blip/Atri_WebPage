@@ -39,7 +39,7 @@ A network scanning project using Nmap to discover active hosts, identify open po
 
 ---
 
-## 2. 🌐 ATRI Web Vulnerability Scanner
+## 2. 🌐 Web Vulnerability Scanner
 
 **Project Type:** Individual Project
 
@@ -95,29 +95,6 @@ BlueStrike is a team-based cybersecurity project focused on understanding Wi-Fi 
 **Technologies:** ESP32, Arduino, Wi-Fi Security, Wireless Adapter
 
 **My Role:** Wi-Fi Security Testing
-
----
-
-## 5. 🛡️ ATRI Cyber Defense AI
-
-**Project Type:** Individual Development Project
-
-An AI-assisted defensive cybersecurity platform designed to help users understand security events, analyze suspicious indicators, and organize basic security investigations.
-
-**Planned / Developed Modules:**
-- Security dashboard
-- Threat detection
-- Phishing analysis
-- File hash and metadata analysis
-- Network log analysis
-- Threat intelligence
-- Digital forensics
-- Security reports
-- AI assistant interface
-
-**Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript, Chart.js
-
-**Note:** This project is a developing security platform. Its file analysis is not a full malware sandbox.
 
 ---
 
